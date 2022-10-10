@@ -34,3 +34,10 @@ input[type="text"] {
   appearance: none;
   -webkit-focus-ring-color: none;  outline: none;
 }
+
+/* Container */
+.container {
+  width: 100%;
+  max-width: 1350px;
+  padding: 0 15px;
+}
